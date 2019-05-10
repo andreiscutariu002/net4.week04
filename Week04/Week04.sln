@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel.App", "Hotel.App\Hote
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week04.2.App", "Week04.2.App\Week04.2.App.csproj", "{FF5B0AA0-69F8-4236-B4B2-EA8525D32C1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week04.2.Mostenire", "Week04.2.Mostenire\Week04.2.Mostenire.csproj", "{675756B2-8062-480E-9AA6-6CB845666228}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FF5B0AA0-69F8-4236-B4B2-EA8525D32C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF5B0AA0-69F8-4236-B4B2-EA8525D32C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF5B0AA0-69F8-4236-B4B2-EA8525D32C1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{675756B2-8062-480E-9AA6-6CB845666228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675756B2-8062-480E-9AA6-6CB845666228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675756B2-8062-480E-9AA6-6CB845666228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675756B2-8062-480E-9AA6-6CB845666228}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

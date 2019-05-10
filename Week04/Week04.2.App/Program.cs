@@ -3,6 +3,19 @@
     using System;
     using System.Collections.Specialized;
 
+    static class Printer
+    {
+        static Printer()
+        {
+
+        }
+
+        public static void Print()
+        {
+
+        }
+    }
+
     class Motor
     {
         public decimal Capacitate { get; set; }
@@ -60,6 +73,8 @@
             //masina2.NrMasini;
 
             Masina.PrintNrMasini();
+
+            var cos = Math.Cos(12.312d);
         }
     }
 }
