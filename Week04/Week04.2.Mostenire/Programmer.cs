@@ -1,5 +1,6 @@
 ﻿namespace Week04._2.Mostenire
 {
+    // Programmer - clasa derivata
     public class Programmer : Employee
     {
         public string Technology { get; set; }
