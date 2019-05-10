@@ -33,6 +33,9 @@ namespace Hotel.App
             // 1. Add new hotel
             hotelManager.Add(hotel);
 
+
+            hotelManager.Delete(hotel);
+
             // 3. Find room
             hotelManager.FindRoom(120);
         }
