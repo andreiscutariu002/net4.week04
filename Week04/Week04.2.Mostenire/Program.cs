@@ -10,9 +10,21 @@ namespace Week04._2.Mostenire
     {
         static void Main(string[] args)
         {
-            var p = new Programmer();
+            //var p = new Programmer("Andrei");
 
-            var m = new Manager();
+            //var m = new Manager();
+
+            //p.Metoda(2);
+
+            //m.Metoda(3);
+
+            var sp = new SuperProgrammer();
+
+            sp.SetAge(22);
+
+            sp.AgeProp = 17;
+
+            var age = sp.GetAge();
         }
     }
 }
